@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "messaging",
-    "slug": "messaging",
+    "name": "thetoolbar",
+    "slug": "thetoolbar",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,10 +25,6 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "androidStatusBar": {
-      "barStyle": "dark-content",
-      "backgroundColor": "#FFFFFF"
     }
   }
 }
