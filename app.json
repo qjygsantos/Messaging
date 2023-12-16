@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.qjygsantos.thetoolbar"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "90aa4af7-8711-413e-b4d4-f4862f3990ab"
+      }
+    },
+    "owner": "qjygsantos"
   }
 }
